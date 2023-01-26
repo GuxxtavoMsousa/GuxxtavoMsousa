@@ -1,5 +1,7 @@
 Ola, sou Gustavo Moreira de Sousa!
 
+![Gustavo M's GitHub stats](https://github-readme-stats.vercel.app/api?username=guxxtavoMsousa&theme=dark&show_icons=true)
+
 - 🔭 Eu atualmente estou desempregado.
 - 🌱 Estou aprendendo um pouco de JavaScript, PHP e Banco de dados.
 - 👯 Gostaria de conhecer pessoas para fazer novos projetos
