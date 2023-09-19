@@ -8,7 +8,7 @@ Ola, sou Gustavo Moreira de Sousa!
 - 👯 Gostaria de conhecer pessoas para fazer novos projetos
 - 🤔 Quero ajuda num projeto
 - 💬 Pergunte-me sobre projetos.
-- 📫 gustavo@gmail.com
+- 📫 gustavomsousa362@gmail.com
 
 <hr>
 <div style="display: inline_block"><br>
